@@ -1,0 +1,4 @@
+Iterable is a generic interface .
+A problem you might be having (you haven't actually said what problem you're having, if any) is that if you use
+a generic interface/class . without specifying the type argument(s) you can erase the types
+ of unrelated . generic types within the class .
